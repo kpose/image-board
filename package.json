@@ -1,0 +1,19 @@
+{
+  "name": "image-board",
+  "version": "1.0.0",
+  "description": "image input component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kpose richard",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "react": "^16.8.6",
+    "react-native": "^0.59.9"
+  },
+  "devDependencies": {
+    "webpack": "^4.35.0"
+  }
+}
