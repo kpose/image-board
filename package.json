@@ -9,6 +9,7 @@
   "author": "kpose richard",
   "license": "ISC",
   "dependencies": {
+    "image-board": "./image-board-1.0.0.tgz",
     "lodash": "^4.17.11",
     "react": "^16.8.6",
     "react-native": "^0.59.9"
